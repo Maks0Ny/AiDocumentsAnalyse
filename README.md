@@ -35,24 +35,5 @@
 - python-docx
 - регулярные выражения (re)
 
----
-
-## 🏗 Архитектура проекта
-project/
-│
-├── preprocessor.py
-├── analyzer.py
-├── classifier.py
-├── neural_risk_inference.py
-├── hybrid_classifier.py
-├── report_generator.py
-├── trainer.py
-├── main.py
-│
-├── dataset/
-├── dataset_split/
-├── trained_model/
-│
-└── examples/
 
 
