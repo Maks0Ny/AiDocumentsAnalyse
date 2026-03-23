@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# PyCharm / IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# HuggingFace / Transformers cache
+.cache/
+huggingface/
+*.bin
+
+# Model weights (если не хочешь пушить)
+trained_model/
+*.pt
+*.pth
+
+# Dataset (если большой)
+dataset/
+dataset_split/
+
+# Generated reports
+*.docx
+*.pdf
+*.txt
+
+# Temporary files
+temp/
+tmp/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# pip
+pip-wheel-metadata/
+
+# dotenv
+.env
+
+# pytest
+.pytest_cache/
+
+# coverage
+.coverage
+htmlcov/trained_model/
+trained_model/
